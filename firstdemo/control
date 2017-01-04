@@ -1,0 +1,9 @@
+Package: com.yourcompany.firstdemo
+Name: firstdemo
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 第四城
+Author: 第四城
+Section: Tweaks
